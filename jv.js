@@ -1,0 +1,1 @@
+function sim(){alert("Voc\xEA aceitou namorar comigo!. aperte OK")}function desvia(){var a=document.querySelector("#conteudo > button:nth-child(3)");a.style.position="absolute",a.style.bottom=randonNumber(10,90),a.style.left=randonNumber(10,90),btns.tyle.height=randonNumber(10,90),console.log("opa, desviei!...")}function randonNumber(a,b){return Math.random()*(b-a)+a+"%"}
